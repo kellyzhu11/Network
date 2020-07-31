@@ -26,7 +26,7 @@ public class MachinePlayer extends Player {
    * @param color
    */
   public MachinePlayer(int color) {
-    this(color, 4);
+    this(color, 3);
   }
 
   /**
