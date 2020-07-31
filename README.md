@@ -12,7 +12,7 @@ Sample game: A computer player plays against another computer player
 ## Usage
  1. Clone the repositories
  
- `git clone https://github.com/kellyzhu11/network-game-player.git`
+ `git clone https://github.com/kellyzhu11/Network-Game-Player.git`
  
  2. Compile all the code from the root directory
  
