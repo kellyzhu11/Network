@@ -1,9 +1,0 @@
-todo:
-1. present the structure of my program & explain each module's function
-  MachinePlayer--GameTreeSearch--EvaluationFunction--NetworkIdentifier
-                     |                                 |
-                     -----------------------------------
-2. Enrich interface for each module
-3. What if there's a loop when playing the game?
-4. Add variety -- choose a "best move" randomly if multiply moves reach the same score
-5. Improve Readme -- more pictures/schema/gif...
