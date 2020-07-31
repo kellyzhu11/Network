@@ -63,11 +63,6 @@ public class MachinePlayer extends Player {
       chosenMove = chooseMove(this.playerColor, -1, 1, maxDepth).move;
     }
 
-    String playerName = "";
-    if (this.playerColor == 1){playerName = "1st player"};
-    else{playerName = "2nd player"};
-
-    System.out.println("No."+ board.getNumMoves()+ " move : " + playerName + chosenMove);
     board.makeMove(chosenMove, this.playerColor);
     return chosenMove;
   }
