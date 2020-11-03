@@ -1,5 +1,5 @@
 
-# Network Game Player
+# Network Game Player - Test
 This is my implementation of the second group project for UC Berkeley CS61B Data Structures (Spring 2014). This project implements a computer player that plays the strategy board game "Network" against a human player or another computer player. The computer player can choose a move randomly, or by searching game trees. See [readme.pdf](https://github.com/kellyzhu11/network-game-player/blob/master/readme.pdf) for more details.
 
 ## Usage
